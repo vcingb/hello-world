@@ -1,2 +1,7 @@
 # hello-world
-first time use Github
+==================
+
+My first repository on Github!
+I love ☕,🍕,and 💃;
+
+12345678
