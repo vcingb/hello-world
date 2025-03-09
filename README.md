@@ -2,6 +2,6 @@
 ==================
 
 My first repository on Github!
-I love ☕,🍕,and 💃;
+I love ☕,🍕,and 💃；
 
-12345678
+123456789
